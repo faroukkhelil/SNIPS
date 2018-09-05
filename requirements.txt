@@ -1,4 +1,4 @@
-hermes_python==0.1.18
+mqtt==0.0.1
 paho-mqtt==1.4.0
 json==1.0.0
 webbrowser==1.0.0
